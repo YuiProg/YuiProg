@@ -1,51 +1,30 @@
-# 👋 Hi, I'm YuiProg
+<h1 align="center">Hi 👋, I'm YuiProg</h1>
+<h3 align="center">A passionate frontend developer from PH</h3>
 
-Welcome to my GitHub! 🚀  
-I'm a developer who loves building fun and practical projects — especially in web development and game dev.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yuiprog&label=Profile%20views&color=0e75b6&style=flat" alt="yuiprog" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuiprog" alt="yuiprog" /></a> </p>
 
-## 🔭 What I’m Working On
+- 🔭 I’m currently working on **ThreadIt**
 
-Here are some of my highlighted repositories:
+- 🌱 I’m currently learning **Springboot, TypeScript**
 
-### 🌐 Web Projects
-- **dls-web** – Practice project for learning web development with Next.js / JavaScript. :contentReference[oaicite:1]{index=1}
-- **dls-arena-web** – Front-end part of the arena site. :contentReference[oaicite:2]{index=2}
-- **dlsarena** – Homepage fork project. :contentReference[oaicite:3]{index=3}
+- 👯 I’m looking to collaborate about **web development projects**
 
-### 🎮 Game / App Projects
-- **UNITY-CAPSTONE** – Unity C# capstone project. :contentReference[oaicite:4]{index=4}
+- 💬 Ask me about **react, typescript, tailwind**
 
-### 📦 Other Works
-- **arena** – Another public project. :contentReference[oaicite:5]{index=5}
-- **javie** – Miscellaneous project. :contentReference[oaicite:6]{index=6}
+- 📫 How to reach me **javierpatrick79@gmail.com**
 
-(*I have more repos — check them all on my profile!*) :contentReference[oaicite:7]{index=7}
+- ⚡ Fun fact **I am also a musician**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/patrick javier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="patrick javier" height="30" width="40" /></a>
+<a href="https://instagram.com/yuichestra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yuichestra" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@yui-uo4gr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@yui-uo4gr" height="30" width="40" /></a>
+</p>
 
-## 🧠 Skills & Tools
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-- **Languages:** JavaScript, C#, HTML, CSS  
-- **Frameworks / Engines:** Next.js, Unity  
-- **Practices:** Web development, game prototyping
-
----
-
-## 📫 How to Reach Me
-
-Feel free to:
-- ⭐ Star the repositories you find useful
-- 🗣️ Open issues or suggestions
-- 🙌 Follow my GitHub for updates
-
----
-
-## 🔗 Links
-
-[GitHub Profile](https://github.com/YuiProg)
-
----
-
-Thanks for stopping by! 🚀
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuiprog&show_icons=true&locale=en&layout=compact" alt="yuiprog" /></p>
